@@ -1,0 +1,19 @@
+.border1 {
+    cursor: move;
+    max-width: 100%;
+    padding: 20px;
+    margin: 3px;
+    box-shadow: 5px 5px 10px rgb(26, 25, 25);
+
+    &:hover {
+        background-color: rgb(163, 163, 163);
+        box-shadow: 5px 5px 30px rgb(218, 138, 138);
+
+
+    }
+}
+
+.border {
+    min-height: 60px;
+    background-color: rgb(238, 229, 229);
+}
